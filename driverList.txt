@@ -1,0 +1,6 @@
+First Name,Last Name,Address,Gender,DOB,Height,Weight,Eye Color,EXP Date,Class Type,Glasses,SSN,DLN,Username,Password,Suspension,Violation Points
+Alex,Wang,645 Monster Strike Road,Male,Mon Nov 28 13:29:01 JST 2000,65,143,Black,Mon Nov 28 13:29:01 JST 2010,Commercial,False,987654321,B1234563,alexwang,byebye,false,1
+Brandon,Lin,28875 King Arthur Court,Male,Thu Sep 22 20:29:30 JST 2014,73,180,Black,Mon Nov 28 13:29:01 JST 2023,Regular,True,123456789,I1268267,brandonlin,hihi,false,0
+Jane,Mori,3183 Beanie Baget Road,Female,Thu Jan 15 08:13:30 JST 1989,83,120,Black,Mon Nov 28 13:29:01 JST 2000,Regular,True,123456789,J1234568,ryanmori,hihi,true,0
+Josh,Steubs,1265 Town Hall Jail Avenue,Male,Fri Oct 17 20:29:12 JST 2005,55,166,Black,Mon Nov 28 13:29:01 JST 2012,Regular,True,123456789,Y1241267,steubs,hihi,false,0
+Steph,Bosuni,Stuffing Pie Candy Road,Female,Sat Dec 20 02:29:11 JST 1995,48,126,Black,Sat Dec 20 02:29:11 JST 2002,Regular,True,123456789,Z1834321,steph,hihi,false,0

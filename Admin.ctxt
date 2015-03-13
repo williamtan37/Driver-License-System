@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=adminUsername\ adminPassword
+comment0.target=Admin(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getUsername()
+comment2.params=
+comment2.target=java.lang.String\ getPassword()
+comment3.params=admin1\ admin2
+comment3.target=boolean\ compare(Admin,\ Admin)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
