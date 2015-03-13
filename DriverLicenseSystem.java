@@ -462,12 +462,14 @@ public class DriverLicenseSystem
                 index = i;
         }
 
-        if(driverLinkedList.get(index).getSuspension() == true)
+        if(index == -1)
+        System.out.println("Incorrect pasword or username.");
+        else if(driverLinkedList.get(index).getSuspension() == true)
             System.out.println("Your account is locked!");
-        else if(index != -1)
+        else 
             driverInterface(index);
-        else
-            System.out.println("Incorrect pasword or username.");
+       
+            
 
     }
 
